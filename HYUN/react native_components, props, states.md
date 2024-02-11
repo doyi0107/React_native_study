@@ -15,12 +15,12 @@ const HelloWorldApp = () => {
 export default HelloWorldApp;
 
 
-components
+#components
 -HelloWorldApp 이라는 컴포넌트 정의. 
 리액트 네이티브 앱을 만들 때, 우리는 수 많은 새로운 컴포넌트를 만드는 것이다. 
 스크린에서 볼 수 있는 모든 것은 일종의 컴포넌트이다.
 
-props
+#props
 -대부분의 컴포넌트는 생성될 때 각기 다른 매개변수(parameters)를 통해 커스터마이징 될 수 있다. 
 이러한 매개변수들을 props라고 한다. 컴포넌트 역시 props를 사용할 수 있다. 
 하나의 컴포넌트를 앱의 여러 다른 곳에서 조금씩 다른 속성(properties)을 부여하여 사용할 수 있다.
