@@ -1,5 +1,6 @@
 ## <예제코드>
 
+```javascript
 import React from 'react';
 import { Text, View } from 'react-native';
 const HelloWorldApp = () => {
@@ -13,7 +14,7 @@ const HelloWorldApp = () => {
     </View>)
 }
 export default HelloWorldApp;
-
+```
 
 ## components
 -HelloWorldApp 이라는 컴포넌트 정의. 
