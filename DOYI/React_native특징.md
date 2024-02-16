@@ -1,4 +1,4 @@
-# React_native특징
+# React_native_1 특징
 * react native는 웹사이트가 아니기때문에 &lt;div&gt;를 쓸 수 없다. 대신 &lt;View &gt;를 쓰면 된다.<br/>※ view는 따로 import를 해줘야한다. 
 * 모든 text는 text component 안에 들어가야 한다.  &lt;p&gt;도 없고  &lt;span&gt; 도 없다.
 
